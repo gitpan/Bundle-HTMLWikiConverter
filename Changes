@@ -1,6 +1,12 @@
 # Change log for Bundle::HTMLWikiConverter
 
+version: 0.02
+date:    Sun Jan 29 02:03:00 EST 2006
+changes:
+  - bundle now downloads HTML::WikiConverter 0.51
+  - list bundle contents in README
+
 version: 0.01
-date:    Fri 13 Jan 2006
+date:    Fri Jan 13 2006
 changes:
   - original version

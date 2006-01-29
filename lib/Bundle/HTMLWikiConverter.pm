@@ -1,6 +1,6 @@
 package Bundle::HTMLWikiConverter;
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 1;
 
@@ -12,11 +12,11 @@ Bundle::HTMLWikiConverter - A bundle to install HTML::WikiConverter and all its 
 
 =head1 SYNOPSIS
 
- C<perl -MCPAN -e 'install Bundle::HTMLWikiConverter'>
+ perl -MCPAN -e 'install Bundle::HTMLWikiConverter'
 
 =head1 CONTENTS
 
-HTML::WikiConverter 0.50
+HTML::WikiConverter 0.51
 
 HTML::WikiConverter::DokuWiki
 

@@ -1,9 +1,23 @@
-Bundle-HTMLWikiConverter version 0.01
+Bundle-HTMLWikiConverter version 0.02
 =====================================
 
 This is a bundle of modules that can convert HTML into a number of
 wiki markups (or dialects). It includes HTML::WikiConverter and all of
-its dialect modules.
+its dialect modules:
+
+  HTML::WikiConverter 0.51
+  HTML::WikiConverter::DokuWiki
+  HTML::WikiConverter::Kwiki
+  HTML::WikiConverter::MediaWiki
+  HTML::WikiConverter::MoinMoin
+  HTML::WikiConverter::Oddmuse
+  HTML::WikiConverter::PhpWiki
+  HTML::WikiConverter::PmWiki
+  HTML::WikiConverter::SnipSnap
+  HTML::WikiConverter::TikiWiki
+  HTML::WikiConverter::UseMod
+  HTML::WikiConverter::WakkaWiki
+  HTML::WikiConverter::WikkaWiki
 
 INSTALLATION
 
@@ -14,9 +28,9 @@ DEPENDENCIES
 This modules requires these modules:
 
   * Test::More for testing
-  * HTML::Tree for building and manipulating HTML trees
+  * HTML::TreeBuilder for building and manipulating HTML trees
   * HTML::Entities for encoding HTML entities
-  * URI for handling URIs in links
+  * URI and URI::Escape for handling URIs in links
 
 COPYRIGHT
 
