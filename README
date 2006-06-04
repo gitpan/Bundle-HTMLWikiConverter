@@ -1,16 +1,17 @@
-Bundle-HTMLWikiConverter version 0.02
+Bundle-HTMLWikiConverter version 0.03
 =====================================
 
 This is a bundle of modules that can convert HTML into a number of
 wiki markups (or dialects). It includes HTML::WikiConverter and all of
 its dialect modules:
 
-  HTML::WikiConverter 0.51
+  HTML::WikiConverter 0.53
   HTML::WikiConverter::DokuWiki
   HTML::WikiConverter::Kwiki
   HTML::WikiConverter::MediaWiki
   HTML::WikiConverter::MoinMoin
   HTML::WikiConverter::Oddmuse
+  HTML::WikiConverter::PbWiki
   HTML::WikiConverter::PhpWiki
   HTML::WikiConverter::PmWiki
   HTML::WikiConverter::SnipSnap
