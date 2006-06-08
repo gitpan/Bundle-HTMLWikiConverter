@@ -1,7 +1,13 @@
 # Change log for Bundle::HTMLWikiConverter
 
+version: 0.04
+date:    Thu Jun 08 17:00:00 EST 2006
+changes:
+  - use H::WC 0.55
+  - add Markdown
+
 version: 0.03
-date:    Sun Jun 4 01:00:00 EST 2006
+date:    Sun Jun 04 01:00:00 EST 2006
 changes:
   - use H::WC 0.53
   - add PbWiki
